@@ -1,8 +1,9 @@
 # gdscript-dogtastic
-Learning GDscript with my pupster
+Learning GDscript with my pupster for inspiration.
 
 # Purpose
-Get the hang of GDscript so I  can build a fun game with my brother.
+1. Get the hang of GDscript so I  can build a fun game with my brother.  
+2. Keep some reference/example code on hand.
 
 # Rules from Chris E's Musical Improv Class.
 1. Have fun.
